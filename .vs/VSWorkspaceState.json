@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pkg",
+    "\\pkg\\mod",
+    "\\server",
+    "\\server\\middleware",
+    "\\server\\models",
+    "\\server\\router"
+  ],
+  "SelectedNode": "\\server\\main.go",
+  "PreviewInSolutionExplorer": false
+}
